@@ -1,8 +1,10 @@
 {
-    "name": "SayHi",
-    "version": "1.0.0",
-    "main": "./sayhi.js",
-    "dependencies": {
-        "jquery": "latest"
-    }
+  "name": "SayHi",
+  "version": "1.0.0",
+  "main": "./sayhi.js",
+  "dependencies": {
+    "jquery": "latest",
+    "backbone": "~1.0.0",
+    "requirejs": "2.1.1"
+  }
 }
