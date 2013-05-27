@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "./sayhi.js",
   "dependencies": {
-    "jquery": "latest",
     "backbone": "~1.0.0",
-    "requirejs": "2.1.1"
+    "requirejs": "2.1.1",
+    "jquery": "1.8.3"
   }
 }
